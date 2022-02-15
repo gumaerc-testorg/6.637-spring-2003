@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: cb88bfe1-3867-22c5-28cd-17cdbdf51b28
 ---
@@ -85,7 +87,7 @@ The accompanying written report is worth 20 points.
 Quizzes
 -------
 
-There will be two 1.5 hour in-class quizzes, given on the 14th and the 23rd day.
+There will be two 1.5 hour in-class quizzes, given on the 14{{< sup "th" >}} and the 23{{< sup "rd" >}} day.
 
 Grading Policy
 --------------
