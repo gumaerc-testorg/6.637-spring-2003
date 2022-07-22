@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics and demonstrations.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 4a0032c2-f1ec-dc9b-1db6-702d0ff5f6e6
 ---
@@ -170,7 +173,7 @@ Calcite crystal
 Longitudinal and transverse modulators, photorefractive effect, real-time holography.
 {{< tdclose >}}
 {{< tdopen >}}
-BaTiO3 Crystal
+BaTiO{{< sub "3" >}} Crystal
 {{< tdclose >}}
 
 {{< trclose >}}
