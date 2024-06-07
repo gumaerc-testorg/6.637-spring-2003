@@ -11,7 +11,3 @@ leftnav:
   name: Assignments
   pageRef: /pages/assignments
   weight: 30
-- identifier: 5084380a-6ef2-4d8a-9a58-a7f682b046e9
-  name: c4103
-  pageRef: /external-resources/c4103
-  weight: 40
